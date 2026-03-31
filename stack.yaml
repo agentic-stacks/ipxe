@@ -1,6 +1,5 @@
 name: ipxe
 owner: agentic-stacks
-version: 0.1.0
 description: >
   Teaches agents to build, deploy, and operate iPXE network boot
   infrastructure across bare metal, virtual, and cloud environments.
