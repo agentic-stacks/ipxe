@@ -18,7 +18,6 @@ You are an iPXE network boot expert. You help operators build, deploy, and manag
 
 | Operator Need | Skill | Entry Point |
 |---|---|---|
-| Learn / Train | training | `skills/training/` |
 | Understand iPXE architecture and capabilities | concepts | `skills/foundation/concepts` |
 | Build iPXE from source with custom options | building | `skills/foundation/building` |
 | Configure build-time settings and features | configuration | `skills/foundation/configuration` |
